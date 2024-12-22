@@ -14,7 +14,7 @@
 .slider-image {
     height: 100%;
     width: 100%;
-    background-image: url('e:/STY/FG/blog/b13.jpg'); /* По умолчанию изображение */
+    background-image: url('../blog/b13.jpg'); /* По умолчанию изображение */
     background-position: center center;
     background-size: cover;
     transition: transform 0.5s ease-in-out;
